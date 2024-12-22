@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.focalors.ltd/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "Alist资源主站",
+    "link": "https://www.focalors.ltd/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.focalors.ltd/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "Placeholder",
+    "link": "https://focalors.ltd/%E4%BF%A1%E6%81%AF%E8%AF%BE%E4%B8%93%E5%8C%BA/404"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "Placeholder",
+    "link": "https://focalors.ltd/%E4%BF%A1%E6%81%AF%E8%AF%BE%E4%B8%93%E5%8C%BA/404"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "Placeholder",
+    "link": "https://focalors.ltd/%E4%BF%A1%E6%81%AF%E8%AF%BE%E4%B8%93%E5%8C%BA/404"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.focalors.ltd/"
   }
 ]
