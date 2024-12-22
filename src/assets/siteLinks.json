@@ -15,9 +15,9 @@
     "link": "https://music.focalors.ltd/"
   },
   {
-    "icon": "Compass",
-    "name": "Placeholder",
-    "link": "https://focalors.ltd/%E4%BF%A1%E6%81%AF%E8%AF%BE%E4%B8%93%E5%8C%BA/404"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.focalors.ltd/"
   },
   {
     "icon": "Book",
@@ -30,8 +30,8 @@
     "link": "https://focalors.ltd/%E4%BF%A1%E6%81%AF%E8%AF%BE%E4%B8%93%E5%8C%BA/404"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.focalors.ltd/"
+    "icon": "Compass",
+    "name": "Placeholder",
+    "link": "https://focalors.ltd/%E4%BF%A1%E6%81%AF%E8%AF%BE%E4%B8%93%E5%8C%BA/404"
   }
 ]
